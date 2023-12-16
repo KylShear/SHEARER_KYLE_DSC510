@@ -4,6 +4,8 @@
 # Author Kyle Shearer
 # 12/16/23
 
+#Added conditional codes to manipulate cost of fiber cable installation based off amount of feet purchased.
+
 # User Name
 user_name = input("Enter your name: ")
 
